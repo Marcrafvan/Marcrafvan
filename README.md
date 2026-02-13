@@ -12,6 +12,7 @@ I'm a student of BSIT with Specialization in Animation and Game Development from
 | **Current Focus** | `Social Media Management Apps`, `UI/UX` |
 
 📫 Holler at me:
+
 Email: marcussteven.basanta.10202003@gmail.com
 
 Mobile: +63 998 251 5178
