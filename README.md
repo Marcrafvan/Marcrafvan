@@ -2,12 +2,16 @@
 
 I'm a student of BSIT with Specialization in Animation and Game Development from FEU Diliman. I'd like to be a part of some big project in the future so I'm trying my best in the present.
 
-Category,Technologies
-Languages,"C++, C#, Java, Python, PHP"
-Web Dev,"HTML5, CSS3, JavaScript"
-Specialization,"Animation, Game Development"
+### 💻 Tech Stack & Tools
 
-📫 How to reach me:
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C++`, `C#`, `Java`, `Python`, `PHP` |
+| **Web Development** | `HTML5`, `CSS3`, `JavaScript` |
+| **Specialization** | `Animation`, `Game Development` |
+| **Current Focus** | `Social Media Management Apps`, `UI/UX` |
+
+📫 Holler at me:
 Email: marcussteven.basanta.10202003@gmail.com
 
 Mobile: +63 998 251 5178
