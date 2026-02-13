@@ -1,6 +1,8 @@
-## Yo! 👋 this is Marcus Steven A. Basanta
+## Yo! 👋 this is **Marcus Steven A. Basanta**
 
-I'm a student of BSIT with Specialization in Animation and Game Development from FEU Diliman. I'd like to be a part of some big project in the future so I'm trying my best in the present. I'm kinda enthusiastic about Computer Hardware, Anime, and Gaming in general so feel free to chat me up!
+
+I'm a student of **BSIT** with Specialization in **Animation and Game Development** from **FEU Diliman**. I'd like to be a part of some big project in the future so I'm trying my best in the present. I'm kinda enthusiastic about Computer Hardware, Anime, and Gaming in general so feel free to chat me up!
+
 
 ### 💻 Tech Stack & Tools
 
@@ -10,23 +12,12 @@ I'm a student of BSIT with Specialization in Animation and Game Development from
 | **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
 | **Specialization** | ![Autodesk Maya](https://img.shields.io/badge/Maya-FFFFFF?style=for-the-badge&logo=autodesk-maya&logoColor=37A5CC) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000) ![Animation](https://img.shields.io/badge/Animation-FFFFFF?style=for-the-badge&logo=adobe-animate&logoColor=FF0000) |
 
+My biggest project so far is our Capstone Project [**"SEATUS: AN ATMOSPHERIC VIRTUAL REALITY SIMULATION GAME EXPLORING MARINE CONSERVATION, BIODIVERSITY, AND THE IMPACTS OF ILLEGAL ACTIVITIES IN PROTECTED WATERS"**](https://youtu.be/_5dxX7xuMqM)
+It may not be perfect but feel free to check it out!
+
+
 📫 Holler at me:
 
 Email: marcussteven.basanta.10202003@gmail.com
 
 Mobile: +63 998 251 5178
-
-<!--
-**Marcrafvan/Marcrafvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
