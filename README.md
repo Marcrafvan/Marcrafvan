@@ -6,9 +6,9 @@ I'm a student of BSIT with Specialization in Animation and Game Development from
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-006400?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700) ![C#](https://img.shields.io/badge/C%23-006400?style=for-the-badge&logo=c-sharp&logoColor=FFD700) ![Java](https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=openjdk&logoColor=FFD700) ![Python](https://img.shields.io/badge/Python-006400?style=for-the-badge&logo=python&logoColor=FFD700) ![PHP](https://img.shields.io/badge/PHP-006400?style=for-the-badge&logo=php&logoColor=FFD700) |
-| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=006400) ![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=006400) ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=006400) |
-| **Specialization** | ![Unity](https://img.shields.io/badge/Unity-006400?style=for-the-badge&logo=unity&logoColor=FFD700) ![Animation](https://img.shields.io/badge/Animation-006400?style=for-the-badge&logo=adobe-animate&logoColor=FFD700) ![Game_Dev](https://img.shields.io/badge/Game_Dev-006400?style=for-the-badge&logo=unreal-engine&logoColor=FFD700) |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=239120) ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB) ![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=777BB4) |
+| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| **Specialization** | ![Autodesk Maya](https://img.shields.io/badge/Maya-FFFFFF?style=for-the-badge&logo=autodesk-maya&logoColor=37A5CC) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000) ![Animation](https://img.shields.io/badge/Animation-FFFFFF?style=for-the-badge&logo=adobe-animate&logoColor=FF0000) |
 
 📫 Holler at me:
 
